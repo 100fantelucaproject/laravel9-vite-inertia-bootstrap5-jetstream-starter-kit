@@ -1,4 +1,4 @@
-<h2> Start your new project with Jetstream, inertia, vue and bootstrap5: </h1>
+<h1> Start your new project with Jetstream, inertia, vue and bootstrap5: </h1>
 <p >1°-> Clone the repository; </p>
 <p >2°->In terminal: composer install;</p>
 <p >3°->In terminal: cp .env.example .env;</p>
